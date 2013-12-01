@@ -1,0 +1,13 @@
+Steve Gallagher 
+
+
+
+1. What does file.readline do?
+	
+	It reads characters in a file until it hits a newline, and returns the results as a string.
+
+
+
+2. What does String.strip do?
+
+	It removes the specified characters from the beginning and end of the string. If no characters are specified, it removes whitespace characters.
